@@ -1,0 +1,7 @@
+False 22 Pedro
+False 32 Paulo
+True 80 Amelia
+True 88 Aldair
+True 90 Neuza
+False 12 Enzo
+True 20 Samuel
